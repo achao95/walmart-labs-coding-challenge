@@ -1,6 +1,6 @@
-package ticket.service;
+package com.walmart.challenge.ticket.service;
 
-import seats.SeatHold;
+import com.walmart.challenge.seats.SeatHold;
 
 public interface TicketService {
 	/**
